@@ -1,3 +1,10 @@
+# migrations and db files
+migrations/
+*.db
+
+# Dev setup on vscode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

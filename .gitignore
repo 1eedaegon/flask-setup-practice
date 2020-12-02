@@ -1,9 +1,13 @@
+########### CONFIG #############
+
 # migrations and db files
 migrations/
 *.db
 
 # Dev setup on vscode
 .vscode/
+
+########### PYTHON DEFAULT #############
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

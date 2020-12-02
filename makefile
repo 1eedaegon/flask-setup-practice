@@ -1,4 +1,4 @@
-.PHONNY clean system-packages python-packages install tests run all
+.PHONY clean system-packages python-packages install tests run all
 
 clean:
 	find . -type f -name '*.pyc' -delete

@@ -3,7 +3,7 @@ Controller - Service - Model기반 flask 프로젝트 연습
 
 
 ### Init
-https://github.com/1eedaegon/flask-setup-practice
+`git clone https://github.com/1eedaegon/flask-setup-practice`
 
 
 ### CLI

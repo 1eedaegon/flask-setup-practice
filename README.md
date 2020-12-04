@@ -1,6 +1,11 @@
 # flask-setup-practice
 Controller - Service - Model기반 flask 프로젝트 연습
 
+
+### Init
+https://github.com/1eedaegon/flask-setup-practice
+
+
 ### CLI
 - `makefile`을 통해 시스템 패키지 설치.
 - `manage.py`를 이용해서 쉽게 `flask` 스크립트 관리.
